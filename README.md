@@ -136,6 +136,7 @@ Consider this 4th state:
 `git difftool COMMIT_ID COMMIT_ID`  <!-- launches a difftool with bunch of diff files to cycle through -->
 `git diff BRANCH_NAME BRANCH_NAME`
 
+<img align="right" width="400" alt="ritesh singh coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhreGQ5a3AxM3IzYWIzNjVjOXVpeTg2eXNvZGdiN3VxM3Q4YXFrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9RbxjZ8QXesiYoerE/giphy.gif">
 
 ### 11. Branching
 `git branch`  <!-- Shows the current branch -->\
@@ -148,7 +149,7 @@ Consider this 4th state:
 
 `git branch -d BRANCH_NAME`  <!-- Delete the BRANCH_NAME branch -->
 
-<img align="right" width="400" alt="ritesh singh coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhreGQ5a3AxM3IzYWIzNjVjOXVpeTg2eXNvZGdiN3VxM3Q4YXFrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9RbxjZ8QXesiYoerE/giphy.gif">
+
 
 ### 12. Merging
 `git merge BRANCH_NAME`  <!-- Merge BRANCH_NAME branch into current branch -->
