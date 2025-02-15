@@ -148,6 +148,7 @@ Consider this 4th state:
 
 `git branch -d BRANCH_NAME`  <!-- Delete the BRANCH_NAME branch -->
 
+<img align="right" width="400" alt="ritesh singh coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhreGQ5a3AxM3IzYWIzNjVjOXVpeTg2eXNvZGdiN3VxM3Q4YXFrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9RbxjZ8QXesiYoerE/giphy.gif">
 
 ### 12. Merging
 `git merge BRANCH_NAME`  <!-- Merge BRANCH_NAME branch into current branch -->
@@ -217,6 +218,7 @@ Consider this 4th state:
 #### 21. Push Local Branch
 `git push -u REMOTE_NAME BRANCH_NAME`  <!-- u sets tracking relationship -->
 
+<img align="right" width="400" alt="ritesh singh coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzM2OXl0N2xuMjdvOGliaTc5cGZ4dHdyamxlN2V0anIxd29wbmdvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/22rDmweQGOtYO4p6oG/giphy.gif">
 
 #### 22. Compare and Pull Request Locally
 `git status`
