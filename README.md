@@ -50,6 +50,7 @@ Consider this 4th state:
 `git init .`  <!-- if project folder is already created, initialize inside it -->
 <!-- Note: A .git folder is created inside which is the actual git repository-->
 
+<img align="right" width="400" alt="ritesh singh coding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGozZGdkdmNzYnIzOXM2aXl6b3RxbHdweXF1cHBrMmRjdGZtNTNrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif">
 
 ### 2. Repository Status
 `git status`
