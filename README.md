@@ -1,5 +1,6 @@
 # Git-Command-Cheat-Sheet
 
+<img align="right" width="400" alt="ritesh singh coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGk5aWF3cXFjeXpiOXBsYWJjcGpmN2kwdzIyc2o4ZXNkY3owOG9vbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.gif">
 
 #### First Steps after installing git
 `git config --global user.name USERNAME`\
